@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Luke Camilleri",
+    "label": "Software Developer",
+    "email": "mail@camilleriluke.com",
+    "phone": "(356) 79296398",
+    "website": "http://camilleriluke.com",
+    "summary": "Software developer specialising in front-end and web technologies, with 5 years experience in the software industry. I first taught myself JavaScript as a weekend project, which then over the years became my passion. I love JavaScript because it is found almost everywhere: mobile phones, PCs, browsers, watches, your car, and more! I also love it because I find the syntax makes it very easy to express yourself (although if you do not know its quirks and inner workings, it can drive you mad). I live by my motto: 'Learn something new every day, and impart my knowledge to my peers'.",
+    "location": {
+      "address": "55, Triq Mons. Mikiel Azzopardi",
+      "postalCode": "SGW2011",
+      "city": "Siggiewi",
+      "countryCode": "Malta"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "camilleriluke",
+        "url": "https://github.com/camilleriluke"
+      },
+      {
+        "network": "Twitter",
+        "username": "camilleriluke",
+        "url": "https://twitter.com/camilleriluke"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IXARIS Systems (Malta) Ltd.",
+      "position": "Senior Developer and Team Lead",
+      "website": "http://ixaris.com",
+      "startDate": "2010-06",
+      "summary": "IXARIS a payment solution technology company. I started working with IXARIS 5 years ago as a junior software programmer, developing the initial version of the OPN infrastructure (today known as FundForward and PaymentPartner). It was from there that my passion for programming truly flourished. I currently lead a team of 5 people, where our main focus is the development of Ixaris' Payment Server Administration Console (using AngularJS).",
+      "highlights": [
+        "Web Technologies Area Lead - I was appointed as a junior technical architect where I am responsible for the technology stack, practices, consultation on web centric projects and evangalising modern web to my peers. An example of the latter consisted of convincing my peers to shift from the JSP paradigm to single page applications, introducing technologies such as AngularJS, JavaScript tests using Jasmine, Grunt for task management, and SASS.",
+        "SVN to Git migration and Gitflow - Introduced Git to my team and eventually to the whole technology department. Was responsible for training my peers and migrating all the SVN repositories to Git, as well as converting to the repository management tool GitLab.",
+        "Big Data Research Group - I focused on visualisation techniques using D3. Implemented two dashboards: a world map showing realtime bank card loads and logins, and an uptime calendar.",
+        "IX-HackDays organisation and participation - In the spirit of fostering innovation, and allowing people to try out new ways of working, for the past two years I organised a hackathon where developers where given 24 hours to work on a project of their choice. I also participated in both events where I implemented a commit achievement system, and 'Cali l-Parker', a mobile application which identifies whether the open air car park is full or not (using OpenCV and the brower speech and navigator APIs).",
+        "Tech Study Group (Ruby, Spring Roo, Scala, AngularJS, etc.) - Used to lead an after-work study group, where the aim was to explore technologies that we do not usually use."
+      ]
+    },
+
+    {
+      "company": "University of Malta - Depertment of ICT",
+      "position": "Teaching Assistant",
+      "website": "https://www.um.edu.mt/ict",
+      "startDate": "2013-06",
+      "summary": "I have delivered tutorials for various modules over the years, namely: Object Oriented Programming (2013) with lecturer Mr. Josef Galea, and Fundamentals of Software Testing (2014) and Software Engineering (Present) with Dr. Mark Micallef."
+    },
+
+    {
+      "company": "STC Malta",
+      "position": "Lecturer - Dynamic Websites Module",
+      "website": "http://www.stcmalta.com/",
+      "startDate": "2014-11",
+      "endDate": "2015-02",
+      "summary": "I delivered a series of lectures describing the theoretical and practical aspects of developing a dynamic website using technologies such as PHP, MySQL, HTML, CSS and JavaScript."
+    },
+
+    {
+      "company": "2X Software Ltd",
+      "position": "Software Tester",
+      "website": "http://2x.com",
+      "startDate": "2008-11",
+      "endDate": "2010-06",
+      "summary": "I was responsible for testing their flagship product the 2X Application Server."
+    }
+  ],
+  "volunteer": [
+      {
+      "organization": "MITA Start-App 15K",
+      "position" : "3rd place (JPL Team)",
+      "website" : "https://mitainnovationhub.gov.mt/en/Pages/Open-Call-2015.aspx",
+      "startDate": "2015-02",
+      "endDate": "2015-02",
+      "summary": "Our team designed a mobile application to tackle a government pain point. We delivered a proposal which included a project plan, architecture plan and business pitch."
+    },
+    {
+      "organization": "MEAN stack application",
+      "position": "aka. Ejja Ha Nieklu",
+      "website": "https://github.com/camilleriluke/ejja-ha-nieklu",
+      "startDate": "2014-04",
+      "endDate": "2014-04",
+      "summary": "As a weekend project together with a college of mine we decided to learn something new and developed a lunch ordering system in under 3 hours. We developed the application using a MEAN stack (MondoDB, ExpressJS, AngularJS, NodeJS) and learnt how to act as devOps by coding and deploying the application onto a production environment."
+    }, {
+      "organization": "ICTSA Programming Competition (Origasmi)",
+      "position" : "Winner of the 2013 industry team",
+      "website" : "http://www.ictsamalta.org/?p=725",
+      "startDate": "2013-11",
+      "endDate": "2013-11",
+      "summary": "Every year the ICT Students' Association organise a programming competition which must be completed in a 48 hour period. That year the task was a paper folding approximation algorithm."
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "University of Middlesex",
+      "area": "Internet Applications Development",
+      "studyType": "Bachelor",
+      "startDate": "2008-09",
+      "endDate": "2011-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "D3",
+        "AngularJS",
+        "NodeJs",
+        "Jasmine",
+        "Karma",
+        "jQuery",
+        "Sass/Less",
+        "JSHint",
+        "Ajax"
+      ]
+    },
+    {
+      "name": "Technologies / Tooling",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "SVN",
+        "Maven",
+        "REST",
+        "SOAP",
+        "Grunt",
+        "Bower",
+        "GitHub",
+        "GitLab",
+        "Jenkins",
+        "Agile",
+        "Jira",
+        "Cricible",
+        "Nginx"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "Java J2EE",
+        "PHP",
+        "Python",
+        "Hibernate",
+        "JUnit",
+        "Spring Framework",
+        "MongoDB",
+        "SQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Maltese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "JavaScript",
+      "fluency": "Native speaker"
+    }
+  ]
+}
